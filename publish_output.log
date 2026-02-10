@@ -1,0 +1,68 @@
+npm notice
+npm notice 📦  @iflow-mcp/gilbarbara-agent-hub-mcp@0.4.1
+npm notice Tarball Contents
+npm notice 1.1kB LICENSE
+npm notice 14.1kB README.md
+npm notice 20B dist/checker.d.mts
+npm notice 20B dist/checker.d.ts
+npm notice 1.2kB dist/checker.js
+npm notice 2.6kB dist/checker.js.map
+npm notice 1.1kB dist/checker.mjs
+npm notice 2.6kB dist/checker.mjs.map
+npm notice 20B dist/index-http.d.mts
+npm notice 20B dist/index-http.d.ts
+npm notice 93.6kB dist/index-http.js
+npm notice 178.4kB dist/index-http.js.map
+npm notice 92.1kB dist/index-http.mjs
+npm notice 178.4kB dist/index-http.mjs.map
+npm notice 20B dist/index.d.mts
+npm notice 20B dist/index.d.ts
+npm notice 79.5kB dist/index.js
+npm notice 151.8kB dist/index.js.map
+npm notice 78.2kB dist/index.mjs
+npm notice 151.8kB dist/index.mjs.map
+npm notice 3.6kB package.json
+npm notice 2.4kB src/agents/cleanup.ts
+npm notice 2.9kB src/agents/detection.ts
+npm notice 2.2kB src/agents/service.ts
+npm notice 1.0kB src/agents/session.ts
+npm notice 1.7kB src/checker.ts
+npm notice 8.2kB src/features/handlers.ts
+npm notice 12.4kB src/features/service.ts
+npm notice 1.4kB src/index-http.ts
+npm notice 3.4kB src/index.ts
+npm notice 3.0kB src/messaging/handlers.ts
+npm notice 2.4kB src/messaging/service.ts
+npm notice 9.7kB src/servers/http.ts
+npm notice 11.2kB src/servers/mcp.ts
+npm notice 6.6kB src/servers/notifications.ts
+npm notice 22.0kB src/storage/file-storage.ts
+npm notice 32B src/storage/index.ts
+npm notice 8.7kB src/tools/definitions.ts
+npm notice 10.9kB src/tools/handlers.ts
+npm notice 644B src/types/agents.types.ts
+npm notice 1.6kB src/types/common.types.ts
+npm notice 4.0kB src/types/features.types.ts
+npm notice 271B src/types/index.ts
+npm notice 562B src/types/messages.types.ts
+npm notice 3.5kB src/types/notifications.types.ts
+npm notice 3.0kB src/types/storage.types.ts
+npm notice 704B src/types/sync.types.ts
+npm notice 1.9kB src/types/tool-inputs.types.ts
+npm notice 129B src/validation/index.ts
+npm notice 1.5kB src/validation/schema.ts
+npm notice 5.5kB src/validation/security.ts
+npm notice Tarball Details
+npm notice name: @iflow-mcp/gilbarbara-agent-hub-mcp
+npm notice version: 0.4.1
+npm notice filename: iflow-mcp-gilbarbara-agent-hub-mcp-0.4.1.tgz
+npm notice package size: 235.4 kB
+npm notice unpacked size: 1.2 MB
+npm notice shasum: c822b10eddb0e9edd110f19c2ee2c53386c16e29
+npm notice integrity: sha512-M8jSrz9zDoWL0[...]LzwJzoQIW/jBg==
+npm notice total files: 51
+npm notice
+npm error code ENEEDAUTH
+npm error need auth This command requires you to be logged in to https://registry.npmjs.org/
+npm error need auth You need to authorize this machine using `npm adduser`
+npm error A complete log of this run can be found in: /root/.npm/_logs/2026-02-10T04_37_19_497Z-debug-0.log
