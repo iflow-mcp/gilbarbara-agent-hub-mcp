@@ -1,5 +1,5 @@
 {
-  "name": "agent-hub-mcp",
+  "name": "@iflow-mcp/gilbarbara-agent-hub-mcp",
   "version": "0.4.0",
   "description": "Universal AI agent coordination platform based on Model Context Protocol (MCP)",
   "author": "Gil Barbara <gilbarbara@gmail.com>",
@@ -56,9 +56,7 @@
     "src"
   ],
   "bin": {
-    "agent-hub-mcp": "dist/index.js",
-    "agent-hub-mcp-http": "dist/index-http.js",
-    "agent-hub-mcp-checker": "dist/checker.js"
+    "iflow-mcp_gilbarbara-agent-hub-mcp": "dist/index.js"
   },
   "sideEffects": false,
   "license": "MIT",
