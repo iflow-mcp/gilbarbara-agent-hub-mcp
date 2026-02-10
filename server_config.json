@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"agent-hub-mcp\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/gilbarbara-agent-hub-mcp\"],\"values\":{}}}}"}
